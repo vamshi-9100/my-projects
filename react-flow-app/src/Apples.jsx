@@ -9,11 +9,11 @@ function Apples()
     return(
         
         <>
-        <h1>Number Of Apples  :{apples}</h1>
+        <h1>Number Of Apples  are  :{apples}</h1>
         {apples===0?(
             <p>no apples left!</p>
         ):(
-            <p>great! you have some apples.</p>
+            <p>great! you have some apples count them for better understanding.</p>
         )
         }
         <p></p>
