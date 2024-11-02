@@ -13,7 +13,7 @@ function Apples()
         {apples===0?(
             <p>no apples left!</p>
         ):(
-            <p>great! you have some apples count them for better understanding.</p>
+            <p>great! you have some apples count them for better understanding purpose.</p>
         )
         }
         <p></p>
